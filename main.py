@@ -15,7 +15,7 @@ root=Tk()
 
 textv=StringVar()
 
-obj=LabelFrame(root,text="Text to Speech",font=20,bd=1)
+obj=LabelFrame(root,text="Click This",font=20,bd=1)
 obj.pack(fill="both",expand="yes",padx=10)
 
 lbl=Label(obj,text="Text",font=30)
